@@ -1,0 +1,6 @@
+# Cambaog-Bag-E-commerce-Website
+Our entry project website for STI Baliuag's 1st term 2nd quarter i-Learn-Share(iLS)
+
+The purpose of our website is to boost the visibility of our local bag businesses within our community by providing a platform for quicker and more convenient ordering. Through our site, customers can effortlessly browse and purchase bags from various local stores, supporting our neighborhood's entrepreneurs while enjoying an efficient shopping experience. Additionally, we aim to highlight the unique craftsmanship and diverse range of bags available, fostering a sense of pride and connection to our local sewers and their creations.
+
+Members: [Ceejay Tejada](https://www.facebook.com/ceejaytejada200), [Crestopher Villarosa](https://www.facebook.com/crestophervillarosa.crestophervillarosa), [Danrae Angeles](https://www.facebook.com/danrae.angeles.71),[Ericson Binos](https://www.facebook.com/profile.php?id=100088590588804), [Gaelle Winter Fernando](https://www.facebook.com/ghiwi.fernando), [Jonas Juno Mendoza](https://www.facebook.com/jonas.mendoza.94849410), [Juven Bermudez](https://www.facebook.com/juven.bermudez.1), [Marielle Ramos](https://www.facebook.com/marielleramos.005), [Maverick Dionisio](https://www.facebook.com/maverick.dionisioll)
